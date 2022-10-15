@@ -1,12 +1,12 @@
 #game-box {
+    width: 500px;
+    margin: 200px auto 0 auto;
     padding: 10px;
     font-family: cursive;
     text-align: center;
-    background-color: lightgrey;
+    background-color: #d3d3d3;
     border: 3px solid;
     border-radius: 25px;
-    width: 500px;
-    margin: 200px auto 0 auto;
 }
 
 .choice-btn {
@@ -15,9 +15,9 @@
 }
 
 #player-text {
-    color: blue;
+    color: #0000ff;
 }
 
 #computer-text {
-    color: red;
+    color: #ff0000;
 }
