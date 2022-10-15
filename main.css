@@ -9,15 +9,15 @@
     border-radius: 25px;
 }
 
-.choice-btn {
-    padding: 5px 50px;
-    line-height: 30px;
-}
-
 #player-text {
     color: #0000ff;
 }
 
 #computer-text {
     color: #ff0000;
+}
+
+.choice-btn {
+    padding: 5px 50px;
+    line-height: 30px;
 }
