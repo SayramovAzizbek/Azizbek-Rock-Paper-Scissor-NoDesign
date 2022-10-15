@@ -1,0 +1,21 @@
+#game-box {
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+    background-color: lightgrey;
+    border: 3px solid;
+    border-radius: 25px;
+}
+
+.choice-btn{
+    padding: 5px 50px;
+    line-height: 30px;
+}
+
+#player-text{
+    color: blue;
+}
+
+#computer-text{
+    color: red;
+}
