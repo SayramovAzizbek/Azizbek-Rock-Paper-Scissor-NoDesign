@@ -5,17 +5,19 @@
     background-color: lightgrey;
     border: 3px solid;
     border-radius: 25px;
+    width: 500px;
+    margin: 200px auto 0 auto;
 }
 
-.choice-btn{
+.choice-btn {
     padding: 5px 50px;
     line-height: 30px;
 }
 
-#player-text{
+#player-text {
     color: blue;
 }
 
-#computer-text{
+#computer-text {
     color: red;
 }
